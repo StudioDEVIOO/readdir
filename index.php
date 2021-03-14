@@ -27,7 +27,7 @@
             if($file != '.' && $file != '..' && !is_dir($dirname.$file) && $file != 'index.php' && $file != '.idea' && $file != "404.html")
             {
                 echo '<tr>';
-                echo '<td><a href="'.$dirname.'/'.$file.'" download="'. $dirname.'/'.$file .'">'.$file.'</a>'.'</td>';
+                echo '<td><a href="'.$file.'" download="'. $file .'">'.$file.'</a>'.'</td>';
                 echo '<td>'. explode('.' , filesize($file)/1024)[0] .' ko</td>';
                 echo '<td>'. date("d M Y",filemtime($file)) .'</td>';
                 echo '</tr>';

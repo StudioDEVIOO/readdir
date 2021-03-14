@@ -1,5 +1,5 @@
 # readdir
-Display files from a directory
+Display & download files from a directory
 <br><br>
 ### Tool for developers
 View [demo](https://archives.devioo.com)

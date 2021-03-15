@@ -13,7 +13,7 @@
 <body>
 <main style="margin: 50px 10px 10px 10px">
     <h1>DEVIOO archives</h1>
-    <p>Click for download file</p>
+    <p>Click for download files</p>
     <table>
         <tr>
             <td style="font-weight: bold;font-size: 18px">Name</td>

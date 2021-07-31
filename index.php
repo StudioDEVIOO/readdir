@@ -4,6 +4,7 @@
     <title>DEVIOO archives</title>
     <meta charset="utf-8">
     <link rel="shortcut icon" type="image/x-icon" href="https://devioo.com/media/devioo.png"/>
+    <meta name="viewport" content="width=device-width, Initial-scale=1, user-scalable=0" />
 </head>
 <style>
     td{
